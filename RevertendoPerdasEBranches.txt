@@ -25,3 +25,11 @@ reforçando:
 -------git revert
 reverte o último commit, não na staging area, mas depois de ser commitado(antes de enviar pra nuvem, não sei se
 funciona depois de enviar pra nuvem)
+
+
+-----------Branches-------------
+
+branche é uma timeline de evoluçao dos meus commits do meu projetos
+branche é uma timeline, um fluxo de evolução
+
+por padrão a branche principal é a branch master
